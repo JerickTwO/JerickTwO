@@ -12,5 +12,5 @@ Welcome to my GitHub profile! I'm an eager student who enjoys tackling and solvi
 Feel free to take a look at my projects and contributions! Don't hesitate to reach out if you want to discuss ideas, collaborate, or just engage in a conversation about our common areas of interest.
 
 ## Contact
-📧 [Email](mailto:jerickjjtm774@gmail.com)
-🔗 [LinkedIn]( https://www.linkedin.com/in/jerick-toro-5a5a97263/
+📧 [Email](jerickjjtm774@gmail.com)
+🔗 [LinkedIn]( https://www.linkedin.com/in/jerick-toro-5a5a97263/)
