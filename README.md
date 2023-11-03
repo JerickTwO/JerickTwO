@@ -7,7 +7,7 @@
 - ⏰ Firm believer in values like punctuality for achieving long-term goals
 
 ## About Me
-Welcome to my GitHub profile! I'm an eager student who enjoys tackling and solving complex challenges. Besides my studies, I invest time in self-directed learning and content creation in areas that fascinate me. I believe that discipline, determination, and punctuality are crucial for long-term success and strive to integrate these values into my daily life.
+Welcome to my GitHub profile! I'm an eager who enjoys tackling and solving complex challenges. Besides my studies, I invest time in self-directed learning and content creation in areas that fascinate me. I believe that discipline, determination, and punctuality are crucial for long-term success and strive to integrate these values into my daily life.
 
 Feel free to take a look at my projects and contributions! Don't hesitate to reach out if you want to discuss ideas, collaborate, or just engage in a conversation about our common areas of interest.
 
