@@ -36,4 +36,19 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 
 
 #### Web Development:
-[![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5…
+[![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
+[![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
+[![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
+<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()-->
+
+#### Programming languages:
+[![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=212121)]()
+[![PHP](https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=212121)]()
+[![Java](https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=java&logoColor=007396&labelColor=212121)]()
+[![JS](https://img.shields.io/badge/JS-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=212121)]()
+<!--[![C#](https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp&logoColor=a31dd6&labelColor=212121)]() -->
+
+
+#### Web Frameworks:
+[![Django](https://img.shields.io/badge/Django-212121?style=for-the-badge&logo=django&logoColor=white&labelColor=212121)]()
+[![Flask](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=white&labelColor=212121)]()
