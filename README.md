@@ -1,4 +1,4 @@
-Hello! I'm Jerick Toro 👋
+###Hello! I'm Jerick Toro 👋
 
 ### Enthusiastic Student with a Passion for Problem Solving and Content Creation 🚀
 
@@ -14,33 +14,6 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 -Contact
 📧 [Email](jerickjjtm774@gmail.com)
 🔗 [LinkedIn]( https://www.linkedin.com/in/jerick-toro-5a5a97263/)
-### Anyel EC, Hello! 👋
-
-<!--
-*Anyel-ec/Anyel-ec* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on...
-- 🌱 I'm currently learning...
-- 👯 I'm looking to collaborate on...
-- 🤔 I'm looking for help with...
-- 💬Ask me about...
-- 📫How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
-
-Hello! ✨ I am Angel Paul Patiño Diaz, a student already finishing Information Technology Engineering at the University of the Armed Forces, in love with the digital world. I'm passionate about Cybersecurity, DevOps, and sharing my knowledge with others. I enjoy the countryside, contemplating the sunsets 🌄, admiring the stars ✨ and feeling the freshness of the night; It's just beautiful.😊
-
-❤️Sé una buena persona por encima de todo. | Be a good person above all else.  ❤️
-
-<!--
-Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering student with experience in both the development of front-end and back-end technologies. I am committed to progress in all aspects of my life and always being looking for new opportunities to grow professionally. As a born entrepreneur, I am constantly learning and updating myself on the latest trends and technologies.
-
-
-I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users. -->
 
 #### Personal Pages
 [![My Page](https://img.shields.io/badge/Página%20Web-212121?style=for-the-badge&logo=google-chrome&logoColor=FF0000&labelColor=212121)](https://anyel.top/)
