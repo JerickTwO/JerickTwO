@@ -1,4 +1,4 @@
-###Hello! I'm Jerick Toro 👋
+### Hello! I'm Jerick Toro 👋
 
 ### Enthusiastic Student with a Passion for Problem Solving and Content Creation 🚀
 
