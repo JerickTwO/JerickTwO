@@ -13,10 +13,9 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 
 -Contact
 📧 [Email](jerickjjtm774@gmail.com)
-🔗 [LinkedIn]( )
 
 #### Personal Pages
-[![My Page](https://img.shields.io/badge/Página%20Web-212121?style=for-the-badge&logo=google-chrome&logoColor=FF0000&labelColor=212121)](https[://anyel.top/)](https://www.porfolio-jjtm.netlify.app)
+[![My Page](https://img.shields.io/badge/Página%20Web-212121?style=for-the-badge&logo=google-chrome&logoColor=FF0000&labelColor=212121)]([https://anyel.top/](https://porfolio-jjtm.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=212121)]([https://www.linkedin.com](https://www.linkedin.com/in/jerick-toro-5a5a97263/))
 <!--
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-212121?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=212121)](https://api.whatsapp.com/send?phone=593991675490&text=Un%20gusto%20en%20saludarte💻🌟)
