@@ -34,9 +34,8 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 -->
 <!--[![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=212121)]() -->
 
-
 #### Web Development:
-[![React.js](https://)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
+[![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)]()
 [![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
 [![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
 <!-- [![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()-->
