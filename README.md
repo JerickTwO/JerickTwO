@@ -36,7 +36,7 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 
 
 #### Web Development:
-[![React.js](https:#)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
+[![React.js](https://)](https://www.credly.com/badges/0f0f0b43-67c7-4ec5-b7f2-abf447fb75fb)
 [![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
 [![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
 <!-- [![Vue.js](https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=212121)]()-->
