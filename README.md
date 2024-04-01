@@ -43,7 +43,7 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 #### Programming languages:
 [![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=212121)]()
 [![PHP](https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=212121)]()
-[![Java](https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=java&logoColor=007396&labelColor=212121)]()
+<!--[![Java](https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=java&logoColor=007396&labelColor=212121)]()-->
 [![JS](https://img.shields.io/badge/JS-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=212121)]()
 <!--[![C#](https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp&logoColor=a31dd6&labelColor=212121)]() -->
 
