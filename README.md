@@ -1,11 +1,11 @@
 ### Hello! I'm Jerick Toro 👋
 
 ### Enthusiastic Student with a Passion for Problem Solving and Content Creation 🚀
-
+<!--
 - 🎓 Currently studying at Alessandro Volta
 - 💡 Keen on self-directed learning and continuous personal development
 - ⏰ Firm believer in values like punctuality for achieving long-term goals
-
+-->
 -About Me
 Welcome to my GitHub profile! I'm an eager who enjoys tackling and solving complex challenges. Besides my studies, I invest time in self-directed learning and content creation in areas that fascinate me. I believe that discipline, determination, and punctuality are crucial for long-term success and strive to integrate these values into my daily life.
 
