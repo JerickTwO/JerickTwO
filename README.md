@@ -29,11 +29,6 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 [![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=212121)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=212121)]()
 [![SQLite](https://img.shields.io/badge/SQLite-212121?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=212121)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-212121?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=212121)]()
-<!--[![IBM Db2](https://img.shields.io/badge/IBM_Db2-212121?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=212121)]()
--->
-<!--[![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=212121)]() -->
-
 #### Web Development:
 [![React.js](https://img.shields.io/badge/React.js-212121?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=212121)]()
 [![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=212121)]()
