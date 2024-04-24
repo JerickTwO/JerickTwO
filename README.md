@@ -45,4 +45,3 @@ Feel free to take a look at my projects and contributions! Don't hesitate to rea
 
 #### Web Frameworks:
 [![Django](https://img.shields.io/badge/Django-212121?style=for-the-badge&logo=django&logoColor=white&labelColor=212121)]()
-[![Flask](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=white&labelColor=212121)]()
